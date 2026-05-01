@@ -1,0 +1,101 @@
+idx,drug_name,quantity_in_stock,facility_name,last_inventory_date,label
+0,Amoxicillin,150,Springfield General,2023-03-15,Normal
+1,Ibuprofen,30,Springfield General,2023-03-15,Low
+2,Metformin,200,Shelbyville Clinic,2023-03-16,High
+3,Lisinopril,120,Shelbyville Clinic,2023-03-16,Normal
+4,Hydrochlorothiazide,80,Springfield General,2023-03-17,Low
+5,Acetaminophen,500,Capital City Hospital,2023-03-18,Normal
+6,Azithromycin,20,Springfield General,2023-03-20,Low
+7,Ciprofloxacin,500,Ogden Medical Center,2023-04-01,High
+8,Ciprofloxacin,250,Oakwood Hospital,2023-03-18,Normal
+9,Acetaminophen,25,Lincoln Hospital,2023-03-18,Low
+10,Paracetamol,500,Lincoln Hospital,2023-03-18,High
+11,Clopidogrel,100,Oakdale Hospital,2023-03-18,Normal
+12,Azithromycin,20,Springfield Hospital,2023-04-01,Low
+13,Atorvastatin,350,Riverside Medical Center,2023-03-20,High
+14,Levothyroxine,500,Northfield Hospital,2023-04-01,Normal
+15,Atorvastatin,450,Capital City Hospital,2023-03-18,Normal
+16,Prednisone,10,Shelbyville Clinic,2023-03-21,Low
+17,Atorvastatin,450,Ogden Medical Center,2023-04-01,High
+18,Prednisone,175,Oakwood Hospital,2023-03-18,Normal
+19,Levothyroxine,20,Lincoln Hospital,2023-03-18,Low
+20,Levothyroxine,100,Lincoln Hospital,2023-03-18,High
+21,Losartan,200,Maplewood Clinic,2023-03-19,Normal
+22,Diazepam,10,Springfield Pharmacy,2023-04-02,Low
+23,Losartan,220,Grandview Health,2023-03-21,High
+24,Lisinopril,130,Harborview Clinic,2023-04-02,Normal
+25,Levothyroxine,300,Hillside Medical Center,2023-03-19,Normal
+26,Levothyroxine,25,Springfield General,2023-03-22,Low
+27,Aspirin,300,Lincoln Hospital,2023-04-02,High
+28,Levothyroxine,320,Lincoln Health Center,2023-03-19,Normal
+29,Ciprofloxacin,50,Riverside Medical Center,2023-03-19,Low
+30,Aspirin,250,Lincoln Hospital,2023-03-18,High
+31,Atorvastatin,300,Lakeside Pharmacy,2023-03-20,Normal
+32,Atorvastatin,5,Riverdale Medical Center,2023-04-03,Low
+33,Albuterol,450,Uptown Clinic,2023-03-22,High
+34,Atorvastatin,400,Central Health Facility,2023-04-03,Normal
+35,Omeprazole,350,Riverside Clinic,2023-03-19,Normal
+36,Omeprazole,35,Shelbyville Clinic,2023-03-23,Low
+37,Simvastatin,250,Lincoln Hospital,2023-04-02,High
+38,Atorvastatin,200,Lincoln Health Center,2023-03-19,Normal
+39,Azithromycin,10,Riverside Medical Center,2023-03-19,Low
+40,Prednisone,150,Lincoln Hospital,2023-03-18,High
+41,Albuterol,150,Cedar Heights Hospital,2023-03-21,Normal
+42,Albuterol,50,Greenwood Health Clinic,2023-04-04,Low
+43,Omeprazole,180,Lakeside Hospital,2023-03-23,High
+44,Clopidogrel,250,Riverside Medical Center,2023-04-04,Normal
+45,Simvastatin,400,Pine Grove Pharmacy,2023-03-20,Normal
+46,Atorvastatin,15,Springfield General,2023-03-24,Low
+47,Levothyroxine,180,Boulder Health Clinic,2023-04-03,High
+48,Amlodipine,190,Springfield Pharmacy,2023-03-20,Normal
+49,Omeprazole,40,Hilltop Healthcare,2023-03-20,Low
+50,Albuterol,300,Lincoln Hospital,2023-03-18,High
+51,Amlodipine,250,Riverside Clinic,2023-03-22,Normal
+52,Levothyroxine,25,City Health Department,2023-04-05,Low
+53,Levothyroxine,260,Metro Wellness,2023-03-24,High
+54,Escitalopram,180,Greenbelt Clinic,2023-04-05,Normal
+55,Amlodipine,250,Central Healthcare,2023-03-20,Normal
+56,Lisinopril,20,Shelbyville Clinic,2023-03-25,Low
+57,Lisinopril,160,Boulder Health Clinic,2023-04-03,High
+58,Lorazepam,160,Springfield Pharmacy,2023-03-20,Normal
+59,Prednisone,15,Hilltop Healthcare,2023-03-20,Low
+60,Furosemide,400,Lincoln Hospital,2023-03-18,High
+61,Levothyroxine,180,Birchwood Healthcare,2023-03-23,Normal
+62,Clopidogrel,30,Springfield General,2023-04-06,Low
+63,Alprazolam,200,Hillside Pharmacy,2023-03-25,High
+64,Metformin,210,Oakdale Medical Complex,2023-04-06,Normal
+65,Losartan,220,Broadway Health System,2023-03-21,Normal
+66,Albuterol,5,Springfield General,2023-03-26,Low
+67,Metformin,400,Lincoln Hospital,2023-04-04,High
+68,Simvastatin,220,Springfield General,2023-03-21,Normal
+69,Loratadine,22,Lincoln Hospital,2023-03-21,Low
+70,Omeprazole,200,Lincoln Hospital,2023-03-18,High
+71,Simvastatin,220,Grandview Medical Center,2023-03-24,Normal
+72,Ranitidine,15,Central Hospital,2023-04-07,Low
+73,Furosemide,320,City Health Clinic,2023-03-26,High
+74,Losartan,300,Lakeview Health Center,2023-04-07,Normal
+75,Clopidogrel,275,Newfield Clinic,2023-03-21,Normal
+76,Metformin,50,Shelbyville Clinic,2023-03-27,Low
+77,Atorvastatin,420,Springfield Pharmacy,2023-04-04,High
+78,Omeprazole,240,Oakwood Hospital,2023-03-21,Normal
+79,Atorvastatin,18,Riverside Medical Center,2023-03-21,Low
+80,Lorazepam,80,Lincoln Hospital,2023-03-18,High
+81,Metoprolol,270,Willowbrook Pharmacy,2023-03-25,Normal
+82,Omeprazole,8,Eastside Medical,2023-04-08,Low
+83,Simvastatin,150,Northside Hospital,2023-03-27,High
+84,Simvastatin,220,Maplewood Hospital,2023-04-08,Normal
+85,Furosemide,150,Maple Grove Pharmacy,2023-03-22,Normal
+86,Amlodipine,18,Springfield General,2023-03-28,Low
+87,Metoprolol,210,Springfield Pharmacy,2023-04-04,High
+88,Citalopram,180,Lincoln Health Center,2023-03-22,Normal
+89,Albuterol,5,Hilltop Healthcare,2023-03-22,Low
+90,Citalopram,300,Lincoln Hospital,2023-03-18,High
+91,Furosemide,130,Elmwood General,2023-03-26,Normal
+92,Furosemide,20,Westview Clinic,2023-04-09,Low
+93,Glipizide,170,Westfield Medical,2023-03-28,High
+94,Prednisone,350,Woodland Clinic,2023-04-09,Normal
+95,Albuterol,200,Sunset Medical Center,2023-03-22,Normal
+96,Simvastatin,10,Shelbyville Clinic,2023-03-29,Low
+97,Metoprolol,300,Ogden Medical Center,2023-04-05,High
+98,Tamoxifen,150,Springfield Pharmacy,2023-03-22,Normal
+99,Gabapentin,30,Lincoln Hospital,2023-03-22,Low

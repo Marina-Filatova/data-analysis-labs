@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Виртуальное окружение
+venv/
+.venv/
+myenv/
+virt_vemv/
+env/
+
+# Графики (сгенерированные)
+*.png
+!classification_results.png
+
+# Модели Keras/TF
+*.h5
+*.keras
+checkpoints/
+
+# Word
+~$*.docx
+~$*.doc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Отчёты
+*.docx
+*.doc
